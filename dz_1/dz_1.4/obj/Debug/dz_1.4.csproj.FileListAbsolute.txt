@@ -1,0 +1,7 @@
+F:\VisualStudioC#\dz_1\dz_1.4\bin\Debug\dz_1.4.exe.config
+F:\VisualStudioC#\dz_1\dz_1.4\bin\Debug\dz_1.4.exe
+F:\VisualStudioC#\dz_1\dz_1.4\bin\Debug\dz_1.4.pdb
+F:\VisualStudioC#\dz_1\dz_1.4\obj\Debug\dz_1.4.csprojAssemblyReference.cache
+F:\VisualStudioC#\dz_1\dz_1.4\obj\Debug\dz_1.4.csproj.CoreCompileInputs.cache
+F:\VisualStudioC#\dz_1\dz_1.4\obj\Debug\dz_1.4.exe
+F:\VisualStudioC#\dz_1\dz_1.4\obj\Debug\dz_1.4.pdb
